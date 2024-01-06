@@ -29,10 +29,8 @@
     "example": "yarn workspace @react-navigation/example"
   },
   "engines": {
-    "yarn": "3.2.2",
     "node": ">=18"
   },
-  "packageManager": "yarn@4.0.1",
   "devDependencies": {
     "@commitlint/config-conventional": "^18.4.4",
     "@evilmartians/lefthook": "^1.5.5",
