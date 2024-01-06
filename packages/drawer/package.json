@@ -15,11 +15,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-navigation/react-navigation.git",
+    "url": "https://github.com/sayansr26/react-navigation.git",
     "directory": "packages/drawer"
   },
   "bugs": {
-    "url": "https://github.com/react-navigation/react-navigation/issues"
+    "url": "https://github.com/sayansr26/react-navigation/issues"
   },
   "homepage": "https://reactnavigation.org/docs/drawer-navigator/",
   "main": "lib/commonjs/index.js",
