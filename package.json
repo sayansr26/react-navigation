@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "name": "navigation-nav",
   "description": "Routing and navigation for your React Native apps",
   "private": true,
   "workspaces": {
