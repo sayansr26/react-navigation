@@ -1,4 +1,5 @@
 {
+  "version": "1.0.0",
   "description": "Routing and navigation for your React Native apps",
   "private": true,
   "workspaces": {
