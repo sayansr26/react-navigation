@@ -13,9 +13,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-navigation/react-navigation.git"
+    "url": "git+https://github.com/sayansr26/react-navigation.git"
   },
-  "author": "Satyajit Sahoo <satyajit.happy@gmail.com> (https://github.com/satya164/), Michał Osadnik <micosa97@gmail.com> (https://github.com/osdnk/)",
+  "author": "Sayan Choudhury <sayanchoudhury16@gmail.com> (https://github.com/sayansr24/)",
   "scripts": {
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "typecheck": "tsc --noEmit --composite false",
@@ -32,22 +32,22 @@
   },
   "packageManager": "yarn@4.0.1",
   "devDependencies": {
-    "@commitlint/config-conventional": "^18.1.0",
-    "@evilmartians/lefthook": "^1.5.2",
-    "@lerna-lite/cli": "^2.6.0",
-    "@lerna-lite/publish": "^2.6.0",
-    "@lerna-lite/run": "^2.6.0",
-    "@types/jest": "^29.5.6",
+    "@commitlint/config-conventional": "^18.4.4",
+    "@evilmartians/lefthook": "^1.5.5",
+    "@lerna-lite/cli": "^3.2.0",
+    "@lerna-lite/publish": "^3.2.0",
+    "@lerna-lite/run": "^3.2.0",
+    "@types/jest": "^29.5.11",
     "check-dependency-version-consistency": "^4.1.0",
-    "commitlint": "^18.2.0",
-    "eslint": "^8.52.0",
-    "eslint-config-satya164": "^3.2.0",
+    "commitlint": "^18.4.4",
+    "eslint": "^8.56.0",
+    "eslint-config-satya164": "^3.2.1",
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "jest": "^29.7.0",
     "metro-react-native-babel-preset": "^0.77.0",
     "npm-run-all": "^4.1.5",
-    "prettier": "^3.0.3",
-    "typescript": "^5.2.2"
+    "prettier": "^3.1.1",
+    "typescript": "^5.3.3"
   },
   "jest": {
     "testEnvironment": "node",
@@ -72,5 +72,8 @@
     "useTabs": false,
     "singleQuote": true,
     "trailingComma": "es5"
+  },
+  "resolutions": {
+    "strip-ansi": "6.0.0"
   }
 }
